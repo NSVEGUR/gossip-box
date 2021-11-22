@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576866932659",
+    "project_id": "gossip-box",
+    "storage_bucket": "gossip-box.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576866932659:android:716255925760e4bac9ddc6",
+        "android_client_info": {
+          "package_name": "com.nsvegur.gossip_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576866932659-1gigdie3i536d5jek81sbmq97vh4slt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtxxlW147MA76lxJmNHhiy9wj7qCHMkGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576866932659-1gigdie3i536d5jek81sbmq97vh4slt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+package com.example.gossip_box
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
